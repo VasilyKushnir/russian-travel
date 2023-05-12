@@ -1,0 +1,13 @@
+.place__image {
+  grid-area: image;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 740px) {
+
+  .place__image {
+    order: 3;
+  }
+
+}
