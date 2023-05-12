@@ -1,7 +1,7 @@
-.intro__item {
+.intro__item-description {
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
-  /* font-weight: 400; */
+  font-weight: 700;
   font-size: 12px;
   line-height: 18px;
   color: #fff;
